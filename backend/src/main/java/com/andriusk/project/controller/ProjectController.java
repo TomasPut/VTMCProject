@@ -17,9 +17,6 @@ import java.util.List;
 public class ProjectController {
 
 
-    //
-    //
-    
     @Autowired
     private ProjectService projectService;
 
